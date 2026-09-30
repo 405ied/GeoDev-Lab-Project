@@ -1,7 +1,7 @@
 # Data preparation
 
 **Week 3 deliverable.** GeoDev Lab Africa, Cohort One.
-Author: <your name>
+Author: Akeem Lasisi
 
 What I reprojected, what I clipped, what I checked, and what I fixed.
 
@@ -9,37 +9,36 @@ What I reprojected, what I clipped, what I checked, and what I fixed.
 
 ## 1. Coordinate system decisions
 
-**Working CRS:** <EPSG:XXXX>
+**Working CRS:** <EPSG:32631>
 
-**Why this one:** <One or two sentences. If you are measuring distance or
-area, say that your chosen CRS is in metres and name the zone.>
+**Why this one:** i converted CRS to EPSG: 32631 Zone 31N because i would be making measurements in Meters or Kilo Meters which the EPSG: 4326 will give me wrong calculations
 
 | Dataset | CRS as downloaded | CRS after | Operation |
 |---|---|---|---|
-| <name> | EPSG:4326 | EPSG:32631 | Reprojected |
-| <name> | EPSG:32631 | EPSG:32631 | No change needed |
+| Administrative boundaries | EPSG:4326 | EPSG:32631 | Reprojected |
+| Road Network | EPSG:4326 | EPSG:32631 | Reprojected |
+| SRTM DEM |EPSG:32631 | EPSG:32631 | No change needed |
 
 > Reprojecting recalculates every coordinate. Assigning a CRS only
 > relabels the data. Say which one you did.
 
 ## 2. Clipping to the study area
 
-- **Boundary used:** <source and file>
-- **Features before clipping:** <number>
-- **Features after clipping:** <number>
+- **Boundary used:** OSM and Roads Network
+- **Features before clipping:** 15528
+- **Features after clipping:** 9548
 
-<One sentence on anything unexpected, for example features that fell just
-outside the boundary and whether you kept them.>
+i clipped point feature of Places within the study Area some point fall just outside the Area and i kept them 
 
 ## 3. The five quality checks
 
 | Check | Result | Action taken |
 |---|---|---|
-| Is the CRS what I think it is? | <yes / no> | <what you did> |
-| Are there nulls in the fields I need? | <count> | <what you did> |
-| Are there duplicate features? | <count> | <what you did> |
+| Is the CRS what I think it is? | yes | Reprojected it |
+| Are there nulls in the fields I need? | no | nothing |
+| Are there duplicate features? | No | Nothing |
 | Is the geometry valid? | <count invalid> | <what you did> |
-| Does coverage span the whole study area? | <yes / no> | <what you did> |
+| Does coverage span the whole study area? | no> | Clipped Ward Close to the Border |
 
 ## 4. Problems found, and what I did
 
@@ -48,11 +47,11 @@ Flagging honestly is acceptable. Hiding it is not.>
 
 ## 5. The analysis-ready output
 
-- **File:** `data/processed/<filename>.gpkg`
+- **File:** `data/processed/PST_Trunk_Roads.gpkg`
 - **Format:** GeoPackage
-- **CRS:** <EPSG:XXXX>
-- **Features:** <number>
-- **Produced by:** <script name, or "manually in QGIS">
+- **CRS:** <EPSG:32631>
+- **Features:** 191
+- **Produced by:**  manually in QGIS
 
 ---
 
