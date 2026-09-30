@@ -47,6 +47,10 @@ The data is not in this repository. Every source is linked in
 - [x] Week 3, reprojected, clipped and quality checked
 - [x] Week 4, first spatial analysis, checked four ways [Spatial Analysis](docs/04-Spatial-Analysis.md) and [First Month Summary](docs/05-Month-1-Summary.md)
 
+## Month 2
+
+- [x] Week 5, Python version 3.12.10, and VS Code Installed, Terminal environment successfully navigated Dir, Cd.., ls, pwd
+
 ---
 
 Akeem Lasisi · GeoDev Lab Africa
