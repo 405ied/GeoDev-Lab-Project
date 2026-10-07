@@ -1,0 +1,4 @@
+- [x] Week 1, project brief with a source link for every dataset [the project brief](docs/01-project-brief.md)
+- [x] Week 2, data downloaded, opened and described [Data Note](docs/02-data-notes.md)
+- [x] Week 3, reprojected, clipped and quality checked
+- [x] Week 4, first spatial analysis, checked four ways [Spatial Analysis](docs/04-Spatial-Analysis.md) and [First Month Summary](docs/05-Month-1-Summary.md)
