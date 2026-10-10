@@ -10,3 +10,5 @@
 
 - 1km Buffer was carried out on the Merged Roads
     Settlements and Places within 1km of the roads where intersected
+- 52,229 Buildings/Physical Structures are within the Buffer
+- They are 295 places/Villages within the Buffer Zone

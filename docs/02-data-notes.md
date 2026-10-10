@@ -18,15 +18,15 @@ with it.
 
 ---
 
-## 1. <Dataset name>
+## 1. Administrative Boundaries
 
-- **Source:** <https://...>
-- **Retrieved:** <date>
+- **Source:** [<https://data.grid3.org/datasets/GRID3::grid3-nga-operational-lga-boundaries/about>]
+- **Retrieved:** 14/09/2026
 - **File:** `data/raw/<filename>`
 - **Format:** <GeoPackage / GeoTIFF / CSV>
 - **Geometry type:** <Point / Line / Polygon / n/a>
 - **Feature count:** <number>
-- **CRS as downloaded:** <EPSG:XXXX>
+- **CRS as downloaded:** <EPSG:4346>
 
 **Key columns**
 
