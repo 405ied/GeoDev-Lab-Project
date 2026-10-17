@@ -52,6 +52,7 @@ The data is not in this repository. Every source is linked in
 - [x] Week 5, Python version 3.12.10, and VS Code Installed, Terminal environment successfully navigated Dir, Cd.., ls, pwd
 - [x] Week 6, uv installed, uv version 0.12.21 (7af826859 2026-09-29 x86_64-pc-windows-msvc), UV init, pyproject.toml and uv.lock, pandas added and check.py package run in uv
 
+- [x] Week 7, learn.py, analyse.py reads wards.csv, converts each area and classifies each ward.
 ---
 
 Akeem Lasisi · GeoDev Lab Africa
