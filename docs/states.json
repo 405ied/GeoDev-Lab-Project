@@ -1,0 +1,23 @@
+{
+    "name": "Selected Nigerian States",
+    "features": [
+        {
+            "state": "Lagos",
+            "capital": "Ikeja",
+            "area_km2": 1171,
+            "population": 14000000
+        },
+        {
+            "state": "Kano",
+            "capital": "Kano City",
+            "area_km2": 4990,
+            "population": 9000000
+        },
+        {
+            "state": "Rivers",
+            "capital": "Port Harcourt",
+            "area_km2": 10000,
+            "population": 7000000
+        }
+    ]
+}
