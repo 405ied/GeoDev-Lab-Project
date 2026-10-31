@@ -1,0 +1,7 @@
+before refactoring
+{'smallest': 8.0, 'largest': 781.0, 'count': 43, 'average': 111.93023255813954}
+{'smallest': 1.0, 'largest': 15.0, 'count': 43, 'average': 5.558139534883721}
+
+after refactoring
+area_sqkm -> {'count': 43, 'smallest': 8.0, 'largest': 781.0, 'average': 111.93023255813954}
+villages -> {'count': 43, 'smallest': 1.0, 'largest': 15.0, 'average': 5.558139534883721}

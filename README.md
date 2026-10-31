@@ -53,7 +53,21 @@ The data is not in this repository. Every source is linked in
 - [x] Week 6, uv installed, uv version 0.12.21 (7af826859 2026-09-29 x86_64-pc-windows-msvc), UV init, pyproject.toml and uv.lock, pandas added and check.py package run in uv
 
 - [x] Week 7, learn.py, analyse.py reads wards.csv, converts each area and classifies each ward.
+
+- [x] Week 8, inspect_data.py file was created, Places.csv file was imported from qgis, 'smallest': 8.0, 'largest': 781.0, 'count': 43, 'average': 111.93023255813954
+and 'smallest': 1.0, 'largest': 15.0, 'count': 43, 'average': 5.558139534883721
+
+- [x] Week 9, summary.py file was created, common errors where identified and refactoring of the week 8 codes was done, area_sqkm -> {'count': 43, 'smallest': 8.0, 'largest': 781.0, 'average': 111.93023255813954} villages -> {'count': 43, 'smallest': 1.0, 'largest': 15.0, 'average': 5.558139534883721}
 ---
+
+### Month 2 summary
+
+we were introduced to Terminal and uv environment, 
+we carried out simple analysis on our data
+we went through identification of common errors and way to resolve them
+we wrote our first lines of code 
+we carried out refactoring of the codes
+
 
 Akeem Lasisi · GeoDev Lab Africa
 

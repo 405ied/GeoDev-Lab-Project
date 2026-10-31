@@ -30,8 +30,11 @@ def inspect_column(filename, column):
     return{
         "smallest":min(values),
         "largest":max(values),
-        "count": len(values)
+        "count": len(values),
+        "average": sum(values) / len(values),
     }
 
 result_area = inspect_column("Places.csv", "area_sqkm")
 print(result_area)
+result_villages = inspect_column("Places.csv", "villages")
+print(result_villages)

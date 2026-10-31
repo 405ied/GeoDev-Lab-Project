@@ -1,44 +1,44 @@
-country,iso3,state,statecode,lga,lga_alt_na,ward,ward_alt_n,ward_v1_gr,ward_in_gr,multipart_,source,date,area_sqkm
-Nigeria,NGA,Ogun,OG,Imeko Afon,Imeko / Afon,Afon,,,1.00000000000,1.00000000000,CIESIN,2026-06-30,73.00000000000
-Nigeria,NGA,Ogun,OG,Imeko Afon,Imeko / Afon,Agboriodo,"Kajola/Agberiodo, Agberiodo",,1.00000000000,1.00000000000,CIESIN,2026-06-30,107.00000000000
-Nigeria,NGA,Ogun,OG,Imeko Afon,Imeko / Afon,Agborogbomo,,,1.00000000000,1.00000000000,CIESIN,2026-06-30,95.00000000000
-Nigeria,NGA,Ogun,OG,Imeko Afon,Imeko / Afon,Atapele,Otapele,,1.00000000000,1.00000000000,CIESIN,2026-06-30,68.00000000000
-Nigeria,NGA,Ogun,OG,Imeko Afon,Imeko / Afon,Idofa,,,1.00000000000,1.00000000000,CIESIN,2026-06-30,64.00000000000
-Nigeria,NGA,Ogun,OG,Imeko Afon,Imeko / Afon,Ilara,Ilara/Alagbe,,1.00000000000,1.00000000000,CIESIN,2026-06-30,54.00000000000
-Nigeria,NGA,Ogun,OG,Imeko Afon,Imeko / Afon,Imeko,,,1.00000000000,1.00000000000,CIESIN,2026-06-30,98.00000000000
-Nigeria,NGA,Ogun,OG,Imeko Afon,Imeko / Afon,Iwoye,Iwoye/Jabata,,1.00000000000,1.00000000000,CIESIN,2026-06-30,781.00000000000
-Nigeria,NGA,Ogun,OG,Imeko Afon,Imeko / Afon,Matale,"Oke-Agbede, Oke Agbede/Moriwi, Oke Agbede/Matale, Oke Agbede/Moriwi/Matale, Oke Agbede/ Moriwi",,1.00000000000,1.00000000000,CIESIN,2026-06-30,335.00000000000
-Nigeria,NGA,Ogun,OG,Imeko Afon,Imeko / Afon,Owode,"Owode/Idi Ayin, Idi Ayin",,1.00000000000,1.00000000000,CIESIN,2026-06-30,69.00000000000
-Nigeria,NGA,Ogun,OG,Ipokia,,Agada,,,1.00000000000,1.00000000000,CIESIN,2026-06-30,35.00000000000
-Nigeria,NGA,Ogun,OG,Ipokia,,Agosasa,,,1.00000000000,1.00000000000,CIESIN,2026-06-30,47.00000000000
-Nigeria,NGA,Ogun,OG,Ipokia,,Ajegunle,,,1.00000000000,1.00000000000,CIESIN,2026-06-30,11.00000000000
-Nigeria,NGA,Ogun,OG,Ipokia,,Idiiroko,Idiroko,,1.00000000000,1.00000000000,CIESIN,2026-06-30,16.00000000000
-Nigeria,NGA,Ogun,OG,Ipokia,,Ifonyintedo,,,1.00000000000,1.00000000000,CIESIN,2026-06-30,142.00000000000
-Nigeria,NGA,Ogun,OG,Ipokia,,Ihunbo Ilashe,"Ihunbo/Ilase, Ihunbo/Ilashe",,1.00000000000,1.00000000000,CIESIN,2026-06-30,86.00000000000
-Nigeria,NGA,Ogun,OG,Ipokia,,Ijofin,Ijofin/Idosa,,1.00000000000,1.00000000000,CIESIN,2026-06-30,44.00000000000
-Nigeria,NGA,Ogun,OG,Ipokia,,Ipokia I,,,1.00000000000,1.00000000000,CIESIN,2026-06-30,47.00000000000
-Nigeria,NGA,Ogun,OG,Ipokia,,Ipokia II,,,1.00000000000,1.00000000000,CIESIN,2026-06-30,64.00000000000
-Nigeria,NGA,Ogun,OG,Ipokia,,Mahun I,"Mauni 1, Maun 1",,1.00000000000,1.00000000000,CIESIN,2026-06-30,35.00000000000
-Nigeria,NGA,Ogun,OG,Ipokia,,Mahun II,"Mauni 2, Maun 2",,1.00000000000,1.00000000000,CIESIN,2026-06-30,23.00000000000
-Nigeria,NGA,Ogun,OG,Ipokia,,Tube,,,1.00000000000,1.00000000000,CIESIN,2026-06-30,30.00000000000
-Nigeria,NGA,Ogun,OG,Yewa North,"Egbado North, Yewa / Egbado North",Ayetoro 1,Aye Toro 1,,1.00000000000,1.00000000000,CIESIN,2026-06-30,164.00000000000
-Nigeria,NGA,Ogun,OG,Yewa North,"Egbado North, Yewa / Egbado North",Ayetoro 2,"Aye Toro 2, Ayetoro 2 Isa Ope",,1.00000000000,1.00000000000,CIESIN,2026-06-30,61.00000000000
-Nigeria,NGA,Ogun,OG,Yewa North,"Egbado North, Yewa / Egbado North",Ayetoro 3,"Ido Foi, Ayetoro 3 Ibile, Idofoi/Ayetoro 3, Idofoi",Idofoi,1.00000000000,1.00000000000,CIESIN,2026-06-30,27.00000000000
-Nigeria,NGA,Ogun,OG,Yewa North,"Egbado North, Yewa / Egbado North",Ebute,Ebute Igbooro,,1.00000000000,1.00000000000,CIESIN,2026-06-30,163.00000000000
-Nigeria,NGA,Ogun,OG,Yewa North,"Egbado North, Yewa / Egbado North",Eggua,Igua,,1.00000000000,1.00000000000,CIESIN,2026-06-30,194.00000000000
-Nigeria,NGA,Ogun,OG,Yewa North,"Egbado North, Yewa / Egbado North",Igbogila/Ibese,"Igbogila, Ibese",,1.00000000000,1.00000000000,CIESIN,2026-06-30,153.00000000000
-Nigeria,NGA,Ogun,OG,Yewa North,"Egbado North, Yewa / Egbado North",Ijoun,,,1.00000000000,1.00000000000,CIESIN,2026-06-30,317.00000000000
-Nigeria,NGA,Ogun,OG,Yewa North,"Egbado North, Yewa / Egbado North",Imasayi,Imasai,,1.00000000000,1.00000000000,CIESIN,2026-06-30,70.00000000000
-Nigeria,NGA,Ogun,OG,Yewa North,"Egbado North, Yewa / Egbado North",Joga/Iboro,"Joga/Ibooro, Iboro/Joga, Joga Iboro",,1.00000000000,1.00000000000,CIESIN,2026-06-30,81.00000000000
-Nigeria,NGA,Ogun,OG,Yewa North,"Egbado North, Yewa / Egbado North",Ohunbe,,,1.00000000000,1.00000000000,CIESIN,2026-06-30,238.00000000000
-Nigeria,NGA,Ogun,OG,Yewa North,"Egbado North, Yewa / Egbado North",Sunwa,,,1.00000000000,1.00000000000,CIESIN,2026-06-30,305.00000000000
-Nigeria,NGA,Ogun,OG,Yewa South,"Yewa / Egbado South, Egbado South",Ajilete,,,1.00000000000,1.00000000000,CIESIN,2026-06-30,91.00000000000
-Nigeria,NGA,Ogun,OG,Yewa South,"Yewa / Egbado South, Egbado South",Idogo,,,1.00000000000,1.00000000000,CIESIN,2026-06-30,147.00000000000
-Nigeria,NGA,Ogun,OG,Yewa South,"Yewa / Egbado South, Egbado South",Ilaro I,,,1.00000000000,1.00000000000,CIESIN,2026-06-30,47.00000000000
-Nigeria,NGA,Ogun,OG,Yewa South,"Yewa / Egbado South, Egbado South",Ilaro II,,,1.00000000000,1.00000000000,CIESIN,2026-06-30,37.00000000000
-Nigeria,NGA,Ogun,OG,Yewa South,"Yewa / Egbado South, Egbado South",Ilaro III,,,1.00000000000,1.00000000000,CIESIN,2026-06-30,30.00000000000
-Nigeria,NGA,Ogun,OG,Yewa South,"Yewa / Egbado South, Egbado South",Ilobi/Erinja,,,1.00000000000,1.00000000000,CIESIN,2026-06-30,47.00000000000
-Nigeria,NGA,Ogun,OG,Yewa South,"Yewa / Egbado South, Egbado South",Iwoye,,,1.00000000000,2.00000000000,CIESIN,2026-06-30,175.00000000000
-Nigeria,NGA,Ogun,OG,Yewa South,"Yewa / Egbado South, Egbado South",Oke Odan,"Oke - Odan, Oke-Odan",,1.00000000000,1.00000000000,CIESIN,2026-06-30,112.00000000000
-Nigeria,NGA,Ogun,OG,Yewa South,"Yewa / Egbado South, Egbado South",Owode I,,,1.00000000000,1.00000000000,CIESIN,2026-06-30,22.00000000000
-Nigeria,NGA,Ogun,OG,Yewa South,"Yewa / Egbado South, Egbado South",Owode II,,,1.00000000000,1.00000000000,CIESIN,2026-06-30,8.00000000000
+country,iso3,state,statecode,lga,lga_alt_na,ward,ward_alt_n,ward_v1_gr,ward_in_gr,multipart_,source,date,area_sqkm,villages
+Nigeria,NGA,Ogun,OG,Imeko Afon,Imeko / Afon,Afon,,,1,1,CIESIN,6/30/2026,73,3
+Nigeria,NGA,Ogun,OG,Imeko Afon,Imeko / Afon,Agboriodo,"Kajola/Agberiodo, Agberiodo",,1,1,CIESIN,6/30/2026,107,5
+Nigeria,NGA,Ogun,OG,Imeko Afon,Imeko / Afon,Agborogbomo,,,1,1,CIESIN,6/30/2026,95,7
+Nigeria,NGA,Ogun,OG,Imeko Afon,Imeko / Afon,Atapele,Otapele,,1,1,CIESIN,6/30/2026,68,2
+Nigeria,NGA,Ogun,OG,Imeko Afon,Imeko / Afon,Idofa,,,1,1,CIESIN,6/30/2026,64,4
+Nigeria,NGA,Ogun,OG,Imeko Afon,Imeko / Afon,Ilara,Ilara/Alagbe,,1,1,CIESIN,6/30/2026,54,5
+Nigeria,NGA,Ogun,OG,Imeko Afon,Imeko / Afon,Imeko,,,1,1,CIESIN,6/30/2026,98,9
+Nigeria,NGA,Ogun,OG,Imeko Afon,Imeko / Afon,Iwoye,Iwoye/Jabata,,1,1,CIESIN,6/30/2026,781,15
+Nigeria,NGA,Ogun,OG,Imeko Afon,Imeko / Afon,Matale,"Oke-Agbede, Oke Agbede/Moriwi, Oke Agbede/Matale, Oke Agbede/Moriwi/Matale, Oke Agbede/ Moriwi",,1,1,CIESIN,6/30/2026,335,11
+Nigeria,NGA,Ogun,OG,Imeko Afon,Imeko / Afon,Owode,"Owode/Idi Ayin, Idi Ayin",,1,1,CIESIN,6/30/2026,69,5
+Nigeria,NGA,Ogun,OG,Ipokia,,Agada,,,1,1,CIESIN,6/30/2026,35,3
+Nigeria,NGA,Ogun,OG,Ipokia,,Agosasa,,,1,1,CIESIN,6/30/2026,47,4
+Nigeria,NGA,Ogun,OG,Ipokia,,Ajegunle,,,1,1,CIESIN,6/30/2026,11,2
+Nigeria,NGA,Ogun,OG,Ipokia,,Idiiroko,Idiroko,,1,1,CIESIN,6/30/2026,16,2
+Nigeria,NGA,Ogun,OG,Ipokia,,Ifonyintedo,,,1,1,CIESIN,6/30/2026,142,11
+Nigeria,NGA,Ogun,OG,Ipokia,,Ihunbo Ilashe,"Ihunbo/Ilase, Ihunbo/Ilashe",,1,1,CIESIN,6/30/2026,86,5
+Nigeria,NGA,Ogun,OG,Ipokia,,Ijofin,Ijofin/Idosa,,1,1,CIESIN,6/30/2026,44,2
+Nigeria,NGA,Ogun,OG,Ipokia,,Ipokia I,,,1,1,CIESIN,6/30/2026,47,3
+Nigeria,NGA,Ogun,OG,Ipokia,,Ipokia II,,,1,1,CIESIN,6/30/2026,64,5
+Nigeria,NGA,Ogun,OG,Ipokia,,Mahun I,"Mauni 1, Maun 1",,1,1,CIESIN,6/30/2026,35,2
+Nigeria,NGA,Ogun,OG,Ipokia,,Mahun II,"Mauni 2, Maun 2",,1,1,CIESIN,6/30/2026,23,2
+Nigeria,NGA,Ogun,OG,Ipokia,,Tube,,,1,1,CIESIN,6/30/2026,30,2
+Nigeria,NGA,Ogun,OG,Yewa North,"Egbado North, Yewa / Egbado North",Ayetoro 1,Aye Toro 1,,1,1,CIESIN,6/30/2026,164,8
+Nigeria,NGA,Ogun,OG,Yewa North,"Egbado North, Yewa / Egbado North",Ayetoro 2,"Aye Toro 2, Ayetoro 2 Isa Ope",,1,1,CIESIN,6/30/2026,61,5
+Nigeria,NGA,Ogun,OG,Yewa North,"Egbado North, Yewa / Egbado North",Ayetoro 3,"Ido Foi, Ayetoro 3 Ibile, Idofoi/Ayetoro 3, Idofoi",Idofoi,1,1,CIESIN,6/30/2026,27,2
+Nigeria,NGA,Ogun,OG,Yewa North,"Egbado North, Yewa / Egbado North",Ebute,Ebute Igbooro,,1,1,CIESIN,6/30/2026,163,11
+Nigeria,NGA,Ogun,OG,Yewa North,"Egbado North, Yewa / Egbado North",Eggua,Igua,,1,1,CIESIN,6/30/2026,194,7
+Nigeria,NGA,Ogun,OG,Yewa North,"Egbado North, Yewa / Egbado North",Igbogila/Ibese,"Igbogila, Ibese",,1,1,CIESIN,6/30/2026,153,6
+Nigeria,NGA,Ogun,OG,Yewa North,"Egbado North, Yewa / Egbado North",Ijoun,,,1,1,CIESIN,6/30/2026,317,10
+Nigeria,NGA,Ogun,OG,Yewa North,"Egbado North, Yewa / Egbado North",Imasayi,Imasai,,1,1,CIESIN,6/30/2026,70,4
+Nigeria,NGA,Ogun,OG,Yewa North,"Egbado North, Yewa / Egbado North",Joga/Iboro,"Joga/Ibooro, Iboro/Joga, Joga Iboro",,1,1,CIESIN,6/30/2026,81,5
+Nigeria,NGA,Ogun,OG,Yewa North,"Egbado North, Yewa / Egbado North",Ohunbe,,,1,1,CIESIN,6/30/2026,238,12
+Nigeria,NGA,Ogun,OG,Yewa North,"Egbado North, Yewa / Egbado North",Sunwa,,,1,1,CIESIN,6/30/2026,305,9
+Nigeria,NGA,Ogun,OG,Yewa South,"Yewa / Egbado South, Egbado South",Ajilete,,,1,1,CIESIN,6/30/2026,91,4
+Nigeria,NGA,Ogun,OG,Yewa South,"Yewa / Egbado South, Egbado South",Idogo,,,1,1,CIESIN,6/30/2026,147,9
+Nigeria,NGA,Ogun,OG,Yewa South,"Yewa / Egbado South, Egbado South",Ilaro I,,,1,1,CIESIN,6/30/2026,47,3
+Nigeria,NGA,Ogun,OG,Yewa South,"Yewa / Egbado South, Egbado South",Ilaro II,,,1,1,CIESIN,6/30/2026,37,2
+Nigeria,NGA,Ogun,OG,Yewa South,"Yewa / Egbado South, Egbado South",Ilaro III,,,1,1,CIESIN,6/30/2026,30,3
+Nigeria,NGA,Ogun,OG,Yewa South,"Yewa / Egbado South, Egbado South",Ilobi/Erinja,,,1,1,CIESIN,6/30/2026,47,4
+Nigeria,NGA,Ogun,OG,Yewa South,"Yewa / Egbado South, Egbado South",Iwoye,,,1,2,CIESIN,6/30/2026,175,11
+Nigeria,NGA,Ogun,OG,Yewa South,"Yewa / Egbado South, Egbado South",Oke Odan,"Oke - Odan, Oke-Odan",,1,1,CIESIN,6/30/2026,112,12
+Nigeria,NGA,Ogun,OG,Yewa South,"Yewa / Egbado South, Egbado South",Owode I,,,1,1,CIESIN,6/30/2026,22,2
+Nigeria,NGA,Ogun,OG,Yewa South,"Yewa / Egbado South, Egbado South",Owode II,,,1,1,CIESIN,6/30/2026,8,1
